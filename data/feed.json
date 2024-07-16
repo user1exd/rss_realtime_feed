@@ -1,1 +1,48 @@
-[]
+[
+    {
+        "article_id": "a1d17c6939c28ea9559aa0cc5cbb907e",
+        "title": "Cedice: inflación interanual junio 2023 y junio 2024 llegó a 51,87%",
+        "link": "https://www.descifrado.com/2024/07/15/cedice-inflacion-interanual-junio-2023-y-junio-2024-llego-a-5187/",
+        "creator": [
+            "EDITOR"
+        ],
+        "content": "En el más reciente informe del Observatorio de Gasto Público de Cedice Libertad se detectó que los precios de los bienes y los servicios expresados en bolívares entre junio de 2023 y junio de 2024, subieron 51,87%. En dólares el alza, para el mismo lapso interanual, fue de 15,13%. El informe señala que entre junio de 2023 y junio de 2024 el rubro de transporte fue el más inflacionario pues los precios se incrementaron 36,58%. Lo secunda el de servicios en donde la inflación fue de 33%....",
+        "pubDate": "2024-07-15 21:34:44",
+        "source_id": "descifrado",
+        "source_url": "https://www.descifrado.com",
+        "language": "spanish"
+    },
+    {
+        "article_id": "e5119c769fccf3a6111f941777292c6d",
+        "title": "Concierto de guitarra clásica",
+        "link": "https://www.elidealgallego.com/articulo/agenda-musica/concierto-guitarra-clasica-4930744",
+        "creator": null,
+        "content": "Concierto de guitarra con Almudena de Blas",
+        "pubDate": "2024-07-15 21:33:30",
+        "source_id": "elidealgallego",
+        "source_url": "https://www.elidealgallego.com",
+        "language": "spanish"
+    },
+    {
+        "article_id": "a06f11a79313d66ae4153d5dfee2bfbc",
+        "title": "IX Aniversario da AC Musicambre",
+        "link": "https://www.elidealgallego.com/articulo/agenda-area-metropolitana/ix-aniversario-da-ac-musicambre-4930762",
+        "creator": null,
+        "content": "Con música, pinchos, e un pouco de historia. Entrada de balde ata completar aforo.",
+        "pubDate": "2024-07-15 21:33:30",
+        "source_id": "elidealgallego",
+        "source_url": "https://www.elidealgallego.com",
+        "language": "spanish"
+    },
+    {
+        "article_id": "8741ebf5d38d5f4fd1fd27bea907055e",
+        "title": "Campeonato Gallego de Voley Playa",
+        "link": "https://www.elidealgallego.com/articulo/agenda-deportes/campeonato-gallego-voley-playa-4930748",
+        "creator": null,
+        "content": null,
+        "pubDate": "2024-07-15 21:33:29",
+        "source_id": "elidealgallego",
+        "source_url": "https://www.elidealgallego.com",
+        "language": "spanish"
+    }
+]
